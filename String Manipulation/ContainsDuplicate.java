@@ -1,6 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
+// https://leetcode.com/problems/contains-duplicate/description/
 public class ContainsDuplicate {
   public static void main(String[] args) {
 
